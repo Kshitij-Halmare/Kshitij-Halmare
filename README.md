@@ -1,102 +1,70 @@
 <h1 align="center">Hi 👋, I'm Kshitij Bhaskar Halmare</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 DSA Enthusiast | 💬 Lifelong Learner</h3>
+<h3 align="center">📍 Nagpur, India • Front‑End Web Developer</h3>
+
+---
+
+## 📋 Professional Summary
+Passionate about building responsive, efficient, and visually appealing web apps using React, JavaScript, HTML, and CSS. Skilled in clean coding, debugging, performance optimization, and cross-device functionality.
+
+---
+
+## 🛠️ Tech Skills
+
+**Frontend:** React.js • React‑Redux • Redux Toolkit • Tailwind CSS • JavaScript • HTML5 • CSS3  
+**Backend:** Node.js • Express.js • JWT Authentication • Bcrypt  
+**Database:** MongoDB  
+**APIs & Tools:** REST API • Postman • Thunder Client  
+**Version Control:** GitHub  
+**Soft Skills:** Problem-solving • Analytical thinking • Excellent communication
+
+---
+
+## 🚀 Projects & Visual Showcase
+
+### **MENTIHEALTH**  
+*React • Node.js • MongoDB*  
+AI-driven mental health platform with counselor booking, encrypted data, and interactive dashboard.  
+![MentiHealth Screenshot](./screenshots/mentihealth.png)  
+🔗 [Live Demo](#) • [GitHub](https://github.com/kshitijhalmare/mentihealth)
+
+---
+
+### **SCRIPTOSPHERE – Blog App**  
+*React • Node.js • MongoDB • Editor.js*  
+Rich editor, secure login, image uploads, animations, and real-time notifications.  
+![Scriptosphere Screenshot](./screenshots/scriptosphere.png)  
+🔗 [Live Demo](#) • [GitHub](https://github.com/kshitijhalmare/scriptosphere)
+
+---
+
+### **FLAVOR FUSION – Food App**  
+*React • Node.js • MongoDB • Redux*  
+Secure payments with Stripe and real-time cart updates using Redux.  
+![Flavor Fusion Screenshot](./screenshots/flavorfusion.png)  
+🔗 [Live Demo](#) • [GitHub](https://github.com/kshitijhalmare/flavor-fusion)
+
+---
+
+## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I+love+building+tech+that+matters!;DSA+%7C+System+Design+%7C+Full+Stack;AI+%26+Cloud+learner+on+the+go!" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitijhalmare&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijhalmare&layout=compact&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kshitijhalmare&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Projects I'm Building
+## 📫 Connect with Me
 
-- 🧠 **AI Mental Health Platform** – Chat-based counselor + appointment system  
-- 🎭 **Deepfake Detection with CNNs** – Using computer vision & classification  
-- 🧩 **System Design Visualizer** – React Flow-based drag-drop platform like LeetCode  
-
----
-
-## 🌱 Currently Learning
-
-- ⚙️ System Design (LLD + HLD)
-- 🌐 Cloud Computing & DevOps
-- 🧠 Advanced DSA for Product Interviews
+📧 **halmarekb@rknec.edu**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/yourhandle)
 
 ---
 
-## 💬 Ask Me About
-
-- Frontend + Backend Full Stack Apps  
-- DSA (LeetCode/Codeforces/CodeChef)  
-- Structuring scalable MERN/Java stacks  
-
----
-
-## 📫 Reach Me At
-
-📧 **your.email@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [LeetCode](https://leetcode.com/yourhandle) | [Portfolio](https://yourportfolio.com)
-
----
-
-## 🛠️ Tech Toolbox
-
-### 👨‍💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 🧩 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-004880?style=for-the-badge)
-
-### 🗃️ Database & APIs
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![REST API](https://img.shields.io/badge/REST_API-0250AA?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-4C51BF?style=for-the-badge)
-
-### 🔧 Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🤝 Soft Skills
-
-✅ Problem-Solving Mindset  
-✅ Clear & Effective Communication  
-✅ Team Player & Fast Learner  
-✅ Strong Analytical Thinking
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijhalmare&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijhalmare&layout=compact&theme=tokyonight" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=kshitijhalmare&theme=tokyonight" width="99%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kshitijhalmare&theme=radical&margin-w=10&margin-h=10&no-frame=true" />
-</p>
-
----
-
-## 📌 Quote I Believe In
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
----
-
-⭐️ _Thanks for visiting! Let's connect and code something awesome together!_ 🚀
+> ⚡ “Build software that makes life easier.”  
+> Thank you for visiting — let's connect and create impactful projects together!
