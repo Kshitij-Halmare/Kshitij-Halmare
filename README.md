@@ -54,7 +54,7 @@
 ### 🍴 Flavor Fusion  
 **Food Ordering App** with Stripe payments, secure logins, and Redux-powered cart  
 🔗 [Live](https://food-app-1-p51c.onrender.com) • [Code](https://github.com/Kshitij-Halmare/Food-App)  
-<img src="https://github.com/Kshitij-Halmare/Food-App/blob/main/path-to-screenshot.png" alt="Flavor Fusion Screenshot" width="100%" />
+<img src="./Screenshot_16-3-2025_172317_food-app-1-p51c.onrender.com.jpeg" alt="Flavor Fusion Screenshot" width="100%" />
 
 ---
 
