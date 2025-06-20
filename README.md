@@ -49,7 +49,7 @@ Problem Solving • Communication • Team Collaboration • Analytical Thinking
 ### 🧠 MentiHealth  
 🧩 AI Mental Health Platform for introverts with encrypted counseling and emotional insights  
 🔗 [Live](https://mentihealth-1.onrender.com) • [Code](https://github.com/Kshitij-Halmare/MentiHealth)  
-<img src="./screenshots/mentihealth.png" alt="MentiHealth Screenshot" width="100%"/>
+<img src="[./screenshots/mentihealth.png](https://github.com/Kshitij-Halmare/KshitijHalmare/blob/main/Screenshot_16-3-2025_192032_mentihealth-1.onrender.com.jpeg)" alt="MentiHealth Screenshot" width="100%"/>
 
 ---
 
