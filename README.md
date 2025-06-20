@@ -47,8 +47,7 @@
 ### 📝 Scriptosphere  
 **Blogging App** powered by Editor.js, JWT auth, Cloudinary, and real-time interactions  
 🔗 [Live](https://blogging-website-1-semf.onrender.com) • [Code](https://github.com/Kshitij-Halmare/Blogging_Website)  
-<img src="./Screenshot_16-3-2025_181124_blogging-website-1-semf.onrender.com.jpeg
-" alt="Scriptosphere Screenshot" width="100%" />
+<img src="./Screenshot_16-3-2025_181124_blogging-website-1-semf.onrender.com.jpeg" alt="Scriptosphere Screenshot" width="100%" />
 
 ---
 
