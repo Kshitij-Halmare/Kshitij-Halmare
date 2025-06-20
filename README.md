@@ -1,70 +1,108 @@
 <h1 align="center">Hi 👋, I'm Kshitij Bhaskar Halmare</h1>
-<h3 align="center">📍 Nagpur, India • Front‑End Web Developer</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 DSA Enthusiast | 💬 Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer%20%7C%20MERN%20Stack%20Engineer;DSA%20%7C%20System%20Design%20%7C%20Clean%20Architecture;Always%20Learning%20%F0%9F%9A%80&center=true&width=500&height=50" />
+</p>
 
 ---
 
-## 📋 Professional Summary
-Passionate about building responsive, efficient, and visually appealing web apps using React, JavaScript, HTML, and CSS. Skilled in clean coding, debugging, performance optimization, and cross-device functionality.
+## 🧑‍💼 About Me
+
+- 🔭 Building:  
+  - 💡 AI-powered Mental Health Platform  
+  - 📝 Blog Platform with Editor.js  
+  - 🍽️ Food Ordering App with Stripe Integration  
+
+- 🌱 Currently learning:  
+  - ⚙️ System Design  
+  - ☁️ Cloud & DevOps  
+  - 🧠 Advanced DSA (LeetCode, CodeChef)
+
+- 📬 Contact me: **halmarekb@rknec.edu**
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Tech Stack
 
-**Frontend:** React.js • React‑Redux • Redux Toolkit • Tailwind CSS • JavaScript • HTML5 • CSS3  
-**Backend:** Node.js • Express.js • JWT Authentication • Bcrypt  
-**Database:** MongoDB  
-**APIs & Tools:** REST API • Postman • Thunder Client  
-**Version Control:** GitHub  
-**Soft Skills:** Problem-solving • Analytical thinking • Excellent communication
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
----
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)  
+![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens)  
+![Bcrypt](https://img.shields.io/badge/-Bcrypt-004880?style=for-the-badge)
 
-## 🚀 Projects & Visual Showcase
+**Database:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-### **MENTIHEALTH**  
-*React • Node.js • MongoDB*  
-AI-driven mental health platform with counselor booking, encrypted data, and interactive dashboard.  
-![MentiHealth Screenshot](./screenshots/mentihealth.png)  
-🔗 [Live Demo](#) • [GitHub](https://github.com/kshitijhalmare/mentihealth)
-
----
-
-### **SCRIPTOSPHERE – Blog App**  
-*React • Node.js • MongoDB • Editor.js*  
-Rich editor, secure login, image uploads, animations, and real-time notifications.  
-![Scriptosphere Screenshot](./screenshots/scriptosphere.png)  
-🔗 [Live Demo](#) • [GitHub](https://github.com/kshitijhalmare/scriptosphere)
+**Tools & APIs:**  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
+![Thunder Client](https://img.shields.io/badge/-Thunder_Client-4C51BF?style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-### **FLAVOR FUSION – Food App**  
-*React • Node.js • MongoDB • Redux*  
-Secure payments with Stripe and real-time cart updates using Redux.  
-![Flavor Fusion Screenshot](./screenshots/flavorfusion.png)  
-🔗 [Live Demo](#) • [GitHub](https://github.com/kshitijhalmare/flavor-fusion)
+## 🌟 Featured Projects
+
+### 🧠 MentiHealth – AI-Powered Mental Wellness Platform  
+A complete self-help + community + counselor-booking platform to support mental health.  
+<img src="./screenshots/mentihealth.png" alt="MentiHealth Screenshot" width="100%"/>  
+🔗 [GitHub Repository](https://github.com/kshitijhalmare/MentiHealth)
+
+---
+
+### 📝 Scriptosphere – Dynamic Blog App  
+A full-featured blog platform using Editor.js, JWT auth, Framer Motion, and Cloudinary.  
+<img src="./screenshots/scriptosphere.png" alt="Scriptosphere Screenshot" width="100%"/>  
+🔗 [GitHub Repository](https://github.com/kshitijhalmare/Scriptosphere-Blog-App)
+
+---
+
+### 🍴 Flavor Fusion – Food Ordering App  
+Stripe-powered checkout, cart management with Redux, and user dashboard.  
+<img src="./screenshots/flavorfusion.png" alt="Flavor Fusion Screenshot" width="100%"/>  
+🔗 [GitHub Repository](https://github.com/kshitijhalmare/FlavorFusion-Food-App)
 
 ---
 
 ## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijhalmare&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijhalmare&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitijhalmare&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijhalmare&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kshitijhalmare&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=kshitijhalmare&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kshitijhalmare&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🏅 Achievements
 
-📧 **halmarekb@rknec.edu**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/yourhandle)
+- ✅ Solved **500+ LeetCode** problems  
+- ✅ **2⭐ Coder** on CodeChef  
+- ✅ **Smart India Hackathon** participant – AI for GLOF management
 
 ---
 
-> ⚡ “Build software that makes life easier.”  
-> Thank you for visiting — let's connect and create impactful projects together!
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/yourhandle)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/kshitijhalmare)
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
