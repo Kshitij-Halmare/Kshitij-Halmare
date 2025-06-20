@@ -1,108 +1,110 @@
 <h1 align="center">Hi 👋, I'm Kshitij Bhaskar Halmare</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 DSA Enthusiast | 💬 Lifelong Learner</h3>
+<h3 align="center">🚀 Front-End Developer | 🧠 DSA Enthusiast | 💬 Hackathon Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer%20%7C%20MERN%20Stack%20Engineer;DSA%20%7C%20System%20Design%20%7C%20Clean%20Architecture;Always%20Learning%20%F0%9F%9A%80&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=React%20Developer%20%7C%20MERN%20Stack%20Engineer;Always%20learning%20System%20Design%20%7C%20Cloud%20%7C%20AI;Let’s%20build%20together%20%F0%9F%9A%80&center=true&width=500&height=50" />
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 🔭 Building:  
-  - 💡 AI-powered Mental Health Platform  
-  - 📝 Blog Platform with Editor.js  
-  - 🍽️ Food Ordering App with Stripe Integration  
+🎓 **Electronics & Computer Science Undergraduate** @ Ramdeobaba University (2022–2026)  
+🧑‍💻 Passionate about building responsive, scalable, and engaging web apps  
+📫 Reach me at: **halmarekb@rknec.edu**  
+🌍 Based in Nagpur, India
 
-- 🌱 Currently learning:  
-  - ⚙️ System Design  
-  - ☁️ Cloud & DevOps  
-  - 🧠 Advanced DSA (LeetCode, CodeChef)
+---
 
-- 📬 Contact me: **halmarekb@rknec.edu**
+## 🚀 What I'm Working On
+
+- 🧠 **[MentiHealth](https://mentihealth-1.onrender.com)** – AI-based self-help & counseling platform  
+- 📝 **[Scriptosphere](https://blogging-website-1-semf.onrender.com)** – Blog app with real-time content  
+- 🍴 **[Flavor Fusion](https://food-app-1-p51c.onrender.com)** – Food ordering app with secure payments  
+- 🧪 Hackathon ML Project – GLOF Prediction with 90% accuracy
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+React.js • React‑Redux • Redux Toolkit • Tailwind CSS • JavaScript • HTML5 • CSS3  
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)  
-![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens)  
-![Bcrypt](https://img.shields.io/badge/-Bcrypt-004880?style=for-the-badge)
+Node.js • Express.js • JWT • Bcrypt  
 
 **Database:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+MongoDB  
 
-**Tools & APIs:**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
-![Thunder Client](https://img.shields.io/badge/-Thunder_Client-4C51BF?style=for-the-badge)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+**Tools:**  
+REST APIs • Postman • Thunder Client • GitHub  
 
----
-
-## 🌟 Featured Projects
-
-### 🧠 MentiHealth – AI-Powered Mental Wellness Platform  
-A complete self-help + community + counselor-booking platform to support mental health.  
-<img src="./screenshots/mentihealth.png" alt="MentiHealth Screenshot" width="100%"/>  
-🔗 [GitHub Repository](https://github.com/kshitijhalmare/MentiHealth)
+**Soft Skills:**  
+Problem Solving • Communication • Team Collaboration • Analytical Thinking  
 
 ---
 
-### 📝 Scriptosphere – Dynamic Blog App  
-A full-featured blog platform using Editor.js, JWT auth, Framer Motion, and Cloudinary.  
-<img src="./screenshots/scriptosphere.png" alt="Scriptosphere Screenshot" width="100%"/>  
-🔗 [GitHub Repository](https://github.com/kshitijhalmare/Scriptosphere-Blog-App)
+## 🌟 Projects with Live Links & Screenshots
+
+### 🧠 MentiHealth  
+🧩 AI Mental Health Platform for introverts with encrypted counseling and emotional insights  
+🔗 [Live](https://mentihealth-1.onrender.com) • [Code](https://github.com/Kshitij-Halmare/MentiHealth)  
+<img src="./screenshots/mentihealth.png" alt="MentiHealth Screenshot" width="100%"/>
+
+---
+
+### 📝 Scriptosphere – Blogging App  
+📝 Editor.js-based blog platform with JWT login, Cloudinary, notifications, likes, comments  
+🔗 [Live](https://blogging-website-1-semf.onrender.com) • [Code](https://github.com/Kshitij-Halmare/Blogging_Website)  
+<img src="./screenshots/scriptosphere.png" alt="Scriptosphere Screenshot" width="100%"/>
 
 ---
 
 ### 🍴 Flavor Fusion – Food Ordering App  
-Stripe-powered checkout, cart management with Redux, and user dashboard.  
-<img src="./screenshots/flavorfusion.png" alt="Flavor Fusion Screenshot" width="100%"/>  
-🔗 [GitHub Repository](https://github.com/kshitijhalmare/FlavorFusion-Food-App)
+🛒 Secure transactions with Stripe, real-time Redux cart, and smooth UX  
+🔗 [Live](https://food-app-1-p51c.onrender.com) • [Code](https://github.com/Kshitij-Halmare/Food-App)  
+<img src="./screenshots/flavorfusion.png" alt="Flavor Fusion Screenshot" width="100%"/>
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 🏆 Achievements
+
+- 🧩 **Smart India Hackathon Finalist** – AI solution for GLOF & traffic rerouting  
+- 🧠 Solved **500+ problems** on [LeetCode](https://leetcode.com/u/Kshitij_Bhaskar_Halmare/)  
+- ⚡ **2⭐ Coder** on [CodeChef](https://www.codechef.com/users/horizon2904200)  
+- 🧠 Active on [HackerRank](https://www.hackerrank.com/profile/halmarekb)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijhalmare&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijhalmare&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kshitij-Halmare&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Halmare&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kshitijhalmare&theme=radical" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Kshitij-Halmare&theme=radical" width="100%" />
 </p>
+
+---
+
+## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kshitijhalmare&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kshitij-Halmare&theme=gruvbox&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
 
-## 🏅 Achievements
+## 🌐 Connect with Me
 
-- ✅ Solved **500+ LeetCode** problems  
-- ✅ **2⭐ Coder** on CodeChef  
-- ✅ **Smart India Hackathon** participant – AI for GLOF management
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/kshitijhalmare)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Kshitij-Halmare)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Kshitij_Bhaskar_Halmare/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/horizon2904200)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/halmarekb)
+[![Email](https://img.shields.io/badge/Email-halmar...edu-red?style=flat)](mailto:halmarekb@rknec.edu)
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
